@@ -13,3 +13,7 @@ pip install -r requirements.txt
 ```
 
 (Type `deactivate` to exit virtual environment.)
+
+## Usage
+
+Modify `config.py` and run `python gen.py`.
